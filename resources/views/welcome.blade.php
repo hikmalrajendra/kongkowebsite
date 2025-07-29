@@ -25,37 +25,54 @@
     <section class="bg-light py-5">
         <div class="container text-dark text-center mb-3">
             <h3 class="mb-2 text-dark"><strong>Sponsored By</strong></h3>
-            <p>Thank you for:</p>
+            <p>Open Sponsorship:</p>
         </div>
 
         <div id="marquee-container" style="overflow: hidden; white-space: nowrap; position: relative;">
             <div id="marquee-logos" style="display: inline-block; white-space: nowrap;">
                 <!-- Duplikat agar menyambung -->
                 <div style="display: inline-block;">
-                    <img src="/asset/images/antam.png" alt="Logo 1" height="80" class="mx-3">
-                    <img src="/asset/images/adaro.png" alt="Logo 2" height="80" class="mx-3">
-                    <img src="/asset/images/bni.png" alt="Logo 3" height="80" class="mx-3">
-                    <img src="/asset/images/hero.png" alt="Logo 4" height="80" class="mx-3">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/antam.png" alt="Logo 1" height="80" class="mx-3">
-                    <img src="/asset/images/adaro.png" alt="Logo 2" height="80" class="mx-3">
-                    <img src="/asset/images/bni.png" alt="Logo 3" height="80" class="mx-3">
-                    <img src="/asset/images/hero.png" alt="Logo 4" height="80" class="mx-3">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/antam.png" alt="Logo 1" height="80" class="mx-3">
-                    <img src="/asset/images/adaro.png" alt="Logo 2" height="80" class="mx-3">
-                    <img src="/asset/images/bni.png" alt="Logo 3" height="80" class="mx-3">
-                    <img src="/asset/images/hero.png" alt="Logo 4" height="80" class="mx-3">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/antam.png" alt="Logo 1" height="80" class="mx-3">
-                    <img src="/asset/images/adaro.png" alt="Logo 2" height="80" class="mx-3">
-                    <img src="/asset/images/bni.png" alt="Logo 3" height="80" class="mx-3">
-                    <img src="/asset/images/hero.png" alt="Logo 4" height="80" class="mx-3">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
             </div>
+
+        </div>
         </div>
     </section>
 
