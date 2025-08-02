@@ -32,44 +32,113 @@
             <div id="marquee-logos" style="display: inline-block; white-space: nowrap;">
                 <!-- Duplikat agar menyambung -->
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/desa.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/brili.jpg" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/mamura.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/bukit.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/bnb.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/pakinul.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/rapi.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/sido.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/dua.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/desa.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/PEPEK.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/brili.jpg" alt="Logo 1" height="120" class="mx-3">
                 </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/mamura.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/bukit.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/bnb.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/pakinul.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/rapi.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/sido.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/dua.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/desa.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/brili.jpg" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/mamura.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/bukit.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/bnb.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/pakinul.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/rapi.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/sido.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/dua.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
             </div>
 
         </div>
@@ -88,11 +157,11 @@
                 <div class="p-4 border rounded h-100 bg-light">
                     <h4 class="mb-3">🏍️ <strong>Kategori Modifikasi</strong></h4>
                     <ul class="list-unstyled">
-                        <li>🚴‍♂️ Mothai Open</li>
-                        <li>🚴‍♂️ Racing Style Open</li>
-                        <li>🚴‍♂️ Restorasi Fashion [Sport]</li>
-                        <li>🚴‍♂️ Restorasi Fashion [Non Sport]</li>
-                        <li>🚴‍♂️ CB Standar Touring</li>
+                        <li>🏍 Bebek Fashion Daily Use 2tak dan 4tak ( Pelajar dan Umum )</li>
+                        <li>🏍Sport Fashion Daily Use 2tak dan 4tak ( Umum )</li>
+                        <li>🏍CB dan GL 100 Fashion Daily Use (Umum dan Pelajar)</li>
+                        <li>🏍 Matic Fashion Daily Use (Umum)<li>
+                        <li>🏍 FFA Umum</li>
                     </ul>
                 </div>
             </div>
@@ -100,11 +169,22 @@
                 <div class="p-4 border rounded h-100 bg-light">
                     <h4 class="mb-3">🏁 <strong>Best Categories</strong></h4>
                     <ul class="list-unstyled">
+                        <li>🏆 The Best Fiz R</li>
+                        <li>🏆 The Best Ninja</li>
+                        <li>🏆 The Best Herex</li>
+                        <li>🏆 The Best CB</li>
+                        <li>🏆 The Best MX</li>
+                        <li>🏆 The Best Matic</li>
+                        <li>🏆 The Best Mothai</li>
                         <li>🏆 The Best Paint</li>
-                        <li>🏆 The Best Team</li>
-                        <li>🏆 The Best Custom Part</li>
-                        <li>🏆 The Best Detailing</li>
-                        <li>🏆 The Best Accessories</li>
+                        <li>🏆 The Best Acessories</li>
+                        <li>🏆 The Best Minimalis</li>
+                        <li>🏆 The Best Pemula</li>
+                        <li>🏆 The Best Tim</li>
+                        <li>🏆 The Best Classic</li>
+                        <li>🏆 The Best Restorasi</li>
+                        <li>🏆 The Best Top Sponsor</li>
+                        <li>🏆 The Best Kowkong Pick</li>
                     </ul>
                 </div>
             </div>
@@ -112,9 +192,11 @@
                 <div class="p-4 border rounded h-100 bg-light">
                     <h4 class="mb-3">🏆 <strong>Reward Champion</strong></h4>
                     <ul class="list-unstyled">
-                        <li>🥇 1st Rp.750k + Trophy + Piagam</li>
-                        <li>🥈 2nd Rp.600k + Trophy + Piagam</li>
-                        <li>🥉 3rd Rp.500k + Trophy + Piagam</li>
+                        <li> Juara 1 Uang + Trophy + Piagam</li>
+                        <li> Juara 2 Uang + Trophy + Piagam</li>
+                        <li> Juara 3 Uang + Trophy + Piagam</li>
+                        <li> Juara 4 Piagam</li>
+                        <li> Juara 5 Piagam</li>
                     </ul>
                 </div>
             </div>
@@ -126,14 +208,23 @@
         <h3 class="mb-3">📅 Jadwal Acara</h3>
         <p>18 Agustus 2025 | Lapangan Bangunsari Bandar, Pacitan</p>
         <h2 class="mb-3">IKUTI ACARANYA!!</h2>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf22z1vledGMcAelMD8Eqj1-StegapGhY1TKghvkmroJC1Ww/viewform?usp=dialog"
-            class="btn btn-outline-light mt-3" target="_blank">Daftar Sekarang</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf22z1vledGMcAelMD8Eqj1-StegapGhY1TKghvkmroJC1Ww/viewform"
+            class="btn btn-outline-warning mt-3" target="_blank">Daftar Contest</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd_UIPR1KrwdNrMVc9QxKEV_Ij1Md5N4qAB-2HioxJUOIuSw/viewform"
+            class="btn btn-outline-warning mt-3" target="_blank">Daftar MeetUp</a>
     </section>
 
     <!-- Footer -->
     <footer class="text-center py-4 bg-light">
-        <small>&copy; 2025 bamal and bangkits software engineer Contest. All Rights Reserved.</small>
-    </footer>
+    <small>
+        &copy; 2025 
+        <a href="https://www.instagram.com/hikmalrjndra/?utm_source=ig_web_button_share_sheet" target="_blank" rel="noopener noreferrer">bamal</a> and 
+        <a href="https://www.instagram.com/bangkittscl/?utm_source=ig_web_button_share_sheet" target="_blank" rel="noopener noreferrer">bangkits</a> software engineer Contest. 
+        And design by 
+        <a href="https://www.instagram.com/alfittopamungkass?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer">pamss</a> All Rights Reserved.
+    </small>
+</footer>
+
 
     <!-- Marquee Script -->
     <script>
