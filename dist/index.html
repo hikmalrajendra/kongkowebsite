@@ -276,7 +276,7 @@
             <div class="text-center mt-5">
                 <h2><strong>REGULASI</strong></h2>
                 <p class="text-muted mb-2">Silahkan klik button dibawah ini, untuk mengakses regulasi</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd_UIPR1KrwdNrMVc9QxKEV_Ij1Md5N4qAB-2HioxJUOIuSw/viewform"
+                <a href="https://drive.google.com/drive/folders/1rhVQNsxGGVlOstmYKQ5MEjwHY6g3ULfk"
                 class="btn btn-outline-warning px-4 py-2 mt-2" target="_blank">Regulasi</a>
             </div>
 
