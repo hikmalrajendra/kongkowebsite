@@ -139,6 +139,78 @@
                 <div style="display: inline-block;">
                     <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
                 </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/desa.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/brili.jpg" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/mamura.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/bukit.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/bnb.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/pakinul.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/rapi.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/sido.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/dua.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/desa.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/brili.jpg" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/mamura.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/bukit.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/bnb.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/pakinul.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/rapi.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/sido.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/dua.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
             </div>
 
         </div>
@@ -149,12 +221,13 @@
     <section class="container py-5">
         <div class="text-center mb-5">
             <h2>Tentang Acara</h2>
-            <p class="text-muted">Kontes tahunan yang mempertemukan para pecinta motor dari seluruh Indonesia. Bergabung
-                dan raih gelar motor terbaik tahun ini!</p>
+            <p class="text-muted">Dalam rangka merayakan HUT RI ke-80, kami pemuda-pemudi Desa Bangunsari mempersembahkan wadah untuk kalian adu gengsi dan kreativitas. Ini bukan cuma soal kontes, tapi soal Perayaan dan Semangat Berkarya!
+            Tunjukkan hasil karyamu, dari konsep harian hingga yang paling ekstrem. Dengan biaya pendaftaran yang super terjangkau, kami ingin semua penghobi bisa ikut serta memeriahkan acara ini. 
+            <br> <strong>Saatnya motor kebanggaanmu jadi pusat perhatian!</strong></p>
         </div>
         <div class="row g-4 text-center text-md-start">
             <div class="col-md-4">
-                <div class="p-4 border rounded h-100 bg-light">
+                <div class="p-4 border rounded h-100 bg-light text-start">
                     <h4 class="mb-3">🏍️ <strong>Kategori Modifikasi</strong></h4>
                     <ul class="list-unstyled">
                         <li>🏍 Bebek Fashion Daily Use 2tak dan 4tak ( Pelajar dan Umum )</li>
@@ -166,7 +239,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="p-4 border rounded h-100 bg-light">
+                <div class="p-4 border rounded h-100 bg-light text-start">
                     <h4 class="mb-3">🏁 <strong>Best Categories</strong></h4>
                     <ul class="list-unstyled">
                         <li>🏆 The Best Fiz R</li>
@@ -189,7 +262,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="p-4 border rounded h-100 bg-light">
+                <div class="p-4 border rounded h-100 bg-light text-start">
                     <h4 class="mb-3">🏆 <strong>Reward Champion</strong></h4>
                     <ul class="list-unstyled">
                         <li> Juara 1 Uang + Trophy + Piagam</li>
@@ -197,6 +270,66 @@
                         <li> Juara 3 Uang + Trophy + Piagam</li>
                         <li> Juara 4 Piagam</li>
                         <li> Juara 5 Piagam</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="text-center mt-5 mb-3">
+                <h2><strong>REGULASI</strong></h2>
+            </div>
+            <div class="col-md-4">
+                <div class="p-5 border rounded h-100 bg-light text-start">
+                    <h4 class="mb-3"><strong>Regulasi Fashion Daily Use</strong></h4>
+                    <ul class="list-unstyled">
+                        <li> 1. Berlaku untuk modifikasi kelas bebek, sport, dan matic.</li>
+                        <li> 2. Khusus untuk pelajar budged max 7 juta dan untuk umum tidak ada batasan.</li>
+                        <li> 3. Item penilaian: performa semua bagian motor, kreatifitas, cat, striping, pemakaian aksesoris, trend dan paling utama keserasian universal.</li>
+                        <li> 4. Aplikasi aksesoris variasi jumlah banyak/mahal, merk cat mahal belum tentu meraih point tinggi, lebih mengutamakan aplikasi variasi untuk mendukung keperluan bermotor harian..</li>
+                        <li> 5. Diperbolehkan melakukan detailing menggunakan baut L, Pro Bolt, Pro T dan titanium satu warna.</li>
+                        <li> 6. Teknik finishing chrome dan poles diperbolehkan, sebatas pemanis penampakan universal (tidak boleh over). Tidak disarankan melakukan pelapisan krom body, rangka dan mesin total.</li>
+                        <li> 7. Diwajibkan tetap mempertahankan bodi utama orisinil bawaan motor dan dilarang melakukan proses mix match part body varian lain.</li>
+                        <li> 8. Spesifikasi modif safety riding, wajib dilengkapi spion, set plat nomor, sign lamp, stop lamp & headlamp.</li>
+                        <li> 9. Body disarankan utuh tanpa memotong / melepas (mencoak diperbolehkan sekedar untuk menunjang pemasangan aksesoris).</li>
+                        <li> 10. Body universal boleh di-repaint dengan syarat body utama non kevlar. Diperbolehkan menggunakan cat efek, bunglon, hologram. Diperbolehkan menggunakan striping custom, emblem, dll.</li>
+                        <li> 11. Diperbolehkan melakukan proses detailing part sub body (non body utama) dengan laminasi film water decal motif karbon dan serat carbon kevlar.</li>
+                        <li> 12. Modifikasi kaki-kaki tidak boleh frontal. Maksimal ganti velg (CW / SW), pengereman set, swing arm after market non hand made.</li>
+                        <li> 13. Sistem penggerak kaki-kaki wajib konvensional. Pengereman dibatasi single cakram depan & belakang dengan single kaliper depan & belakang sisi kanan.</li>
+                        <li> 14. Ban motor standar beralur non slick.</li>
+                        <li> 15. Layak jalan & fungsional.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="p-5 border rounded h-100 bg-light text-start">
+                    <h4 class="mb-3"><strong>Kelas Free For All (Racing, Blayer, Extreme, Retro, Custom)</strong></h4>
+                    <ul class="list-unstyled">
+                        <li> 1. "Harus menggunakan mesin dan atau minimal gear box transmisi sepeda motor".</li>
+                        <li> 2. Terbuka bagi semua motor jenis apapun yang sudah mengalami perubahan/modifikasi frontal yang berbeda dari bentuk asli/umum bergaya modif bebas.</li>
+                        <li> 3. Pemakaian ban/pelek mobil diperbolehkan, dianjurkan sesuai dengan spesifikasi kaki-kaki motor.</li>
+                        <li> 4. Diperkenankan mengaplikasi beragam inovasi teknologi baik konstruksi maupun kelistrikan selama tepat guna dan fungsional.</li>
+                        <li> 5. Kelas khusus untuk seluruh motor yang menampilkan ide kreasi, konsep dan inovasi terbaru dari kaum Racing/Blayer/Builder/Modilover/Custom, terutama dari segi konsep/desain/teknologi dan inovasi/penemuan terbaru. Inovasi yang ditampilkan harus bersistem jelas, tidak asal pasang, dan harus bisa diaplikasikan di jalan (layak jalan). Dan “tidak boleh mengikuti kelas lain dibawahnya”.</li>
+                        <li> 6. Penilaian mengutamakan : desain / konsep, performa tiap bagian, ide kreasi baru, trend anyar, finishing cat/airbrush, detail & kerapian pengerjaan, kelistrikan, tingkat kesulitan pengerjaan, tipstrick menaklukan sebuah masalah modifikasi motor, trouble shooting, inovasi teknologi, dan keserasian universal. </li>
+                        <li> 7. Fungsional & layak jalan.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="p-5 border rounded h-100 bg-light text-start">
+                    <h4 class="mb-3"><strong>Regulasi Fashion Daily Use (CBGL)</strong></h4>
+                    <ul class="list-unstyled">
+                        <li> 1. Berlaku untuk modifikasi kelas CB Series dan GL100.</li>
+                        <li> 2. Khusus untuk pelajar budged max 7 juta dan untuk umum tidak ada batasan.</li>
+                        <li> 3. Kecepatan dan kekuatan mesin (power output) tidak diperhitungkan, hanya mengutamakan showbike only dengan performa luar sebagai item penilaian utama.</li>
+                        <li> 4. Modifikasi rangka terbatas, harus menggunakan rangka asli bawaan motor yang maksimal direkonstruksi/dimodif ulang model rangka CB dengan rangka utama tetap standar.</li>
+                        <li> 5. Aplikasi aksesoris variasi jumlah banyak/mahal, merk cat mahal belum tentu meraih point tinggi. Disarankan untuk mengaplikasi aksesoris yang fungsional dan tepat guna untuk mendukung berkendara harian. Tidak disarankan mengaplikasi ragam detail part custom handmade.</li>
+                        <li> 6. Bebas melakukan proses poles atau krom.</li>
+                        <li> 7. Diperbolehkan melakukan modifikasi sektor mesin berteknik plug and play, maksimal upgrade kapasitas silinder serta ganti set kalter, namun dilarang melakukan modifikasi konfigurasi silinder, custom kalter untuk kopling hidrolis serta penggantian fueling system menjadi sistem injeksi.</li>
+                        <li> 8. Body utama boleh melakukan proses re-paint sederhana dan polos non sentuhan airbrush, atau berkonsep karat.</li>
+                        <li> 9. Kaki-kaki terbatas dimodifikasi. Penggantian kaki-kaki tidak boleh frontal, maksimal mengaplikasi part aksesoris after market plug and play. Aplikasi velg & ban bukan motor dilarang.</li>
+                        <li> 10. Item penilaian: performa semua bagian motor, kreativitas, finishing, pemilihan aksesoris, kelistrikan, trend, dan paling utama keserasian universal.</li>
+                        <li> 11. Diperbolehkan melakukan proses detailing part sub body (non body utama) dengan laminasi film water decal motif karbon dan serat carbon kevlar.</li>
+                        <li> 12. Modifikasi kaki-kaki tidak boleh frontal. Maksimal ganti velg (CW / SW), pengereman set, swing arm after market non hand made.</li>
+                        <li> 13. Sistem penggerak kaki-kaki wajib konvensional. Pengereman dibatasi single cakram depan & belakang dengan single kaliper depan & belakang sisi kanan.</li>
+                        <li> 14. Layak jalan dan fungsional.</li>
                     </ul>
                 </div>
             </div>
