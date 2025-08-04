@@ -22,6 +22,17 @@
         </div>
     </section>
 
+    <section class="bg-dark text-white text-center py-5" data-aos="fade-in">
+        <h3 class="mb-2">📅 Jadwal Acara</h3>
+        <p>18 Agustus 2025 | Lapangan Bangunsari Bandar, Pacitan</p>
+        <h2 class="mb-2">IKUTI ACARANYA!!</h2>
+        <p class="fw-bold">Untuk pendaftaran silahkan klik button dibawah ini</p>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf22z1vledGMcAelMD8Eqj1-StegapGhY1TKghvkmroJC1Ww/viewform"
+            class="btn btn-outline-warning mx-2 mt-3" target="_blank">Daftar Contest</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd_UIPR1KrwdNrMVc9QxKEV_Ij1Md5N4qAB-2HioxJUOIuSw/viewform"
+            class="btn btn-outline-warning mx-2 mt-3" target="_blank">Daftar MeetUp</a>
+    </section>
+
     <!-- Sponsor Marquee -->
     <section class="bg-light py-5" data-aos="fade-up">
         <div class="container text-center mb-4">
@@ -217,6 +228,7 @@
         </div>
         </div>
     </section>
+    
 
     <!-- Tentang Acara -->
     <section class="container py-5" data-aos="fade-up">
@@ -274,25 +286,15 @@
                     </ul>
                 </div>
             </div>
-            <div class="text-center mt-5" data-aos="fade-up">
-                <h2><strong>REGULASI</strong></h2>
-                <p class="text-muted mb-2">Silahkan klik button dibawah ini, untuk mengakses regulasi</p>
-                <a href="https://drive.google.com/drive/folders/1rhVQNsxGGVlOstmYKQ5MEjwHY6g3ULfk"
-                class="btn btn-outline-warning px-4 py-2 mt-2" target="_blank">Regulasi</a>
-            </div>
-
+            <section>
+                <div class="text-center mt-5" data-aos="fade-up">
+                    <h2><strong>REGULASI</strong></h2>
+                    <p class="text-muted mb-2">Silahkan klik button dibawah ini, untuk mengakses regulasi</p>
+                    <a href="https://drive.google.com/drive/folders/1rhVQNsxGGVlOstmYKQ5MEjwHY6g3ULfk"
+                    class="btn btn-outline-warning px-4 py-2 mt-2" target="_blank">Regulasi</a>
+                </div>
+            </section>
         </div>
-    </section>
-
-    <!-- Ajakan -->
-    <section class="bg-dark text-white text-center py-5" data-aos="fade-in">
-        <h3 class="mb-2">📅 Jadwal Acara</h3>
-        <p>18 Agustus 2025 | Lapangan Bangunsari Bandar, Pacitan</p>
-        <h2 class="mb-2">IKUTI ACARANYA!!</h2>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf22z1vledGMcAelMD8Eqj1-StegapGhY1TKghvkmroJC1Ww/viewform"
-            class="btn btn-outline-warning mx-2 mt-3" target="_blank">Daftar Contest</a>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd_UIPR1KrwdNrMVc9QxKEV_Ij1Md5N4qAB-2HioxJUOIuSw/viewform"
-            class="btn btn-outline-warning mx-2 mt-3" target="_blank">Daftar MeetUp</a>
     </section>
 
     <!-- Footer -->
