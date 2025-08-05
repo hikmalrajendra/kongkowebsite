@@ -62,7 +62,7 @@
                     <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/pakinul.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/adil.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
                     <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
@@ -98,7 +98,7 @@
                     <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/pakinul.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/adil.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
                     <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
@@ -134,7 +134,7 @@
                     <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/pakinul.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/adil.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
                     <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
@@ -170,7 +170,7 @@
                     <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/pakinul.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/adil.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
                     <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
@@ -206,7 +206,7 @@
                     <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
-                    <img src="/asset/images/pakinul.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/adil.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
                     <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
