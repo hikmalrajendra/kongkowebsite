@@ -270,7 +270,7 @@
                         <li>🏆 The Best Classic</li>
                         <li>🏆 The Best Restorasi</li>
                         <li>🏆 The Best Top Sponsor</li>
-                        <li>🏆 The Best Kowkong Pick</li>
+                        <li>🏆 The Best KongKow Pick</li>
                     </ul>
                 </div>
             </div>
