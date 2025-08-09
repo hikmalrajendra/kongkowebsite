@@ -80,6 +80,12 @@
                     <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
                 </div> 
                 <div style="display: inline-block;">
+                    <img src="/asset/images/putut.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/sam.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
                     <img src="/asset/images/desa.png" alt="Logo 1" height="120" class="mx-3">
                 </div>
                 <div style="display: inline-block;">
@@ -114,6 +120,12 @@
                 </div>
                 <div style="display: inline-block;">
                     <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/putut.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/sam.png" alt="Logo 1" height="120" class="mx-3">
                 </div> 
                 <div style="display: inline-block;">
                     <img src="/asset/images/desa.png" alt="Logo 1" height="120" class="mx-3">
@@ -152,40 +164,10 @@
                     <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
                 </div> 
                 <div style="display: inline-block;">
-                    <img src="/asset/images/desa.png" alt="Logo 1" height="120" class="mx-3">
-                </div>
+                    <img src="/asset/images/putut.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
                 <div style="display: inline-block;">
-                    <img src="/asset/images/brili.jpg" alt="Logo 1" height="120" class="mx-3">
-                </div>
-                <div style="display: inline-block;">
-                    <img src="/asset/images/mamura.png" alt="Logo 1" height="120" class="mx-3">
-                </div>
-                <div style="display: inline-block;">
-                    <img src="/asset/images/bukit.png" alt="Logo 1" height="120" class="mx-3">
-                </div>
-                <div style="display: inline-block;">
-                    <img src="/asset/images/bnb.png" alt="Logo 1" height="120" class="mx-3">
-                </div>
-                <div style="display: inline-block;">
-                    <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
-                </div>
-                <div style="display: inline-block;">
-                    <img src="/asset/images/adil.png" alt="Logo 1" height="120" class="mx-3">
-                </div>
-                <div style="display: inline-block;">
-                    <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
-                </div>
-                <div style="display: inline-block;">
-                    <img src="/asset/images/rapi.png" alt="Logo 1" height="120" class="mx-3">
-                </div>
-                <div style="display: inline-block;">
-                    <img src="/asset/images/sido.png" alt="Logo 1" height="120" class="mx-3">
-                </div>
-                <div style="display: inline-block;">
-                    <img src="/asset/images/dua.png" alt="Logo 1" height="120" class="mx-3">
-                </div>
-                <div style="display: inline-block;">
-                    <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
+                    <img src="/asset/images/sam.png" alt="Logo 1" height="120" class="mx-3">
                 </div> 
                 <div style="display: inline-block;">
                     <img src="/asset/images/desa.png" alt="Logo 1" height="120" class="mx-3">
@@ -222,9 +204,56 @@
                 </div>
                 <div style="display: inline-block;">
                     <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/putut.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/sam.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/desa.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/brili.jpg" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/mamura.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/bukit.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/bnb.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/kalijaga.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/adil.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/memble.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/rapi.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/sido.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/dua.png" alt="Logo 1" height="120" class="mx-3">
+                </div>
+                <div style="display: inline-block;">
+                    <img src="/asset/images/rka.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/putut.png" alt="Logo 1" height="120" class="mx-3">
+                </div> 
+                <div style="display: inline-block;">
+                    <img src="/asset/images/sam.png" alt="Logo 1" height="120" class="mx-3">
                 </div> 
             </div>
-
         </div>
         </div>
     </section>
